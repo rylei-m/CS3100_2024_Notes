@@ -1,5 +1,6 @@
 # Operating Systems 08/26/2024
 ## The background compilation that makes it possible to solve problems
+## how everything we have done on a computer correlates with resource management 
 - Resource Management
   - Threads
   - Power
